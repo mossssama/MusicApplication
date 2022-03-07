@@ -1,2 +1,5 @@
 # MusicApplication
-Software Project at Computer Department HU
+Computer Department, Helwan University
+
+## Software Engineering Project
+
